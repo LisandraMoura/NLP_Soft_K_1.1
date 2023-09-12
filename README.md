@@ -2,15 +2,15 @@
 
 
 Ao longo desse estudo exploramos vários repositórios do GitHub que trabalharam com modelos de machine learning aplicados aos conjuntos de dados Mypersonality.csv e Essays.csv.
+Os dois datasets trazem textos e anotações binárias sobre os traços de personalidade do Big Five. Neste repositório construimos dois modelos para serem treinados com os datasets, Randon Forest e LSTM. Ainda é necessário otimizações e provavelmente uma melhoria nos modelos, mas com o randon forest já conseguimos resultados satisfatórios para continuar.
 
 
-Os dois datasets trazem textos e anotações binárias sobre os traços de personalidade do Big Five. 
+-- Pr-processamento
+-- Otimizadores e loss
+-- Evaluator 
+-- Metricas
 
-
-Neste repositório construimos dois modelos para serem treinados com os datasets, Randon Forest e LSTM. Ainda é necessário otimizações e provavelmente uma melhoria nos modelos, mas com o randon forest já conseguimos resultados satisfatórios para continuar.
-
-
-Randon Forest Essays
+--  Randon Forest Essays
 
       Accuracy: 0.058704453441295545
                     precision    recall  f1-score   support
@@ -27,7 +27,7 @@ Randon Forest Essays
        samples avg       0.57      0.58      0.54      1302
 
 
-Randon Forest My Personality
+-- Randon Forest My Personality
 
 
             Accuracy: 0.08518145161290322
@@ -44,6 +44,7 @@ Randon Forest My Personality
             weighted avg       0.63      0.52      0.50      5071
              samples avg       0.68      0.51      0.55      5071
 
+-- LSTM
 
 Na pasta Documentos temos uma analise sobre os modelos e melhorias possíveis, em conformidade com o nosso objetivo no presente momento. De modo geral, podemos concluir que, quase nenhum repositório estava em perfeitas condições ou não nos atendiam no momento. Portanto, selecionamos alguns modelos e o construimos para a execução. 
 
