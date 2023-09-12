@@ -62,7 +62,7 @@ samples avg 0.68 0.51 0.55 5071
 
 ## LSTM
 
-Na pasta Documentos, temos uma análise sobre os modelos e melhorias possíveis, em conformidade com o nosso objetivo no presente momento. De modo geral, podemos concluir que quase nenhum repositório estava em perfeitas condições ou não nos atendiam no momento. Portanto, selecionamos alguns modelos e os construímos para a execução.
+Na pasta [Documentos](https://github.com/LisandraMoura/NLP_Soft_K_1.1/tree/main/Documentos), temos uma análise sobre os modelos e melhorias possíveis, em conformidade com o nosso objetivo no presente momento. De modo geral, podemos concluir que quase nenhum repositório estava em perfeitas condições ou não nos atendiam no momento. Portanto, selecionamos alguns modelos e os construímos para a execução.
 
 ## Repositórios estudados:
 
