@@ -7,6 +7,7 @@ Tokenização de sentenças: O texto é dividido em sentenças usando nltk.sent_
 Conversão de etiquetas: As etiquetas 'y' e 'n' são convertidas para '1' e '0', respectivamente.
 Obtenção de embeddings: Cada sentença do texto é convertida em um embedding usando o modelo SentenceTransformer.
 Agregação de embeddings: Os embeddings de todas as sentenças de um ensaio são agregados (média) para formar um único embedding que representa o ensaio inteiro.
+
 Qual o modelo de IA usado?
 
 É usado um modelo de Rede Neural com camadas LSTM (Long Short-Term Memory).
@@ -34,3 +35,11 @@ Precisão, Recall e F1-Score: Essas métricas são particularmente importantes p
 ROC e AUC: Se o modelo for adaptado para fornecer probabilidades, a curva ROC e a métrica AUC podem ser úteis para avaliar o desempenho em diferentes limiares.
 Matriz de Confusão: Fornece uma visão detalhada de onde o modelo está cometendo erros.
 Espero que isso ajude a esclarecer as especificações e características do código fornecido! Se você tiver mais perguntas ou precisar de mais esclarecimentos, estou à disposição.
+
+
+
+
+
+# validação muito ruim, provavelmente não conseguimos melhor sem dados. 
+
+
