@@ -1,4 +1,4 @@
-﻿# NLP_Soft_K_1.1
+﻿# NLP SoftK 1.1
 
 
 Ao longo desse estudo exploramos vários repositórios do GitHub que trabalharam com modelos de machine learning aplicados aos conjuntos de dados Mypersonality.csv e Essays.csv.
