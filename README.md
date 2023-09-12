@@ -6,7 +6,10 @@ Dentro deste repositório, construímos dois modelos, o Random Forest e o LSTM, 
 
 ## Pré-processamento
 
-- Preparação dos dados, incluindo dividir o texto em sentenças, converter etiquetas em números, transformar sentenças em números (embeddings) e resumir o texto combinando os embeddings.
+- Divide o texto em sentenças.
+- Converte etiquetas em números.
+- Transforma sentenças em embeddings para representação numérica.
+- Agrega embeddings para resumir o texto
 
 ## Otimizadores e Loss (Função de Perda)
 
@@ -18,7 +21,12 @@ Dentro deste repositório, construímos dois modelos, o Random Forest e o LSTM, 
 
 ## Métricas
 
-- Medidas quantitativas para avaliar o desempenho do modelo, incluindo acurácia, precisão, recall, pontuação F1 e métricas relacionadas à curva ROC e AUC (se o modelo fornecer probabilidades). A escolha das métricas depende do tipo de problema e dos objetivos de avaliação.
+- Acurácia mede a precisão geral do modelo.
+- Precisão avalia a proporção de previsões positivas corretas.
+- Recall mede a proporção de positivos reais identificados pelo modelo.
+- Pontuação F1 combina precisão e recall.
+- Curva ROC e AUC avaliam a capacidade discriminativa do modelo quando ele fornece probabilidades de classificação.
+
 
 ## Resultados
 
