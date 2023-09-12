@@ -25,6 +25,7 @@ Dentro deste repositório, construímos dois modelos, o Random Forest e o LSTM, 
 ### Random Forest Essays
 
 Accuracy: 0.058704453441295545
+
            precision    recall  f1-score   support
   
        cEXT       0.60      0.53      0.56       272
@@ -34,9 +35,9 @@ Accuracy: 0.058704453441295545
        cOPN       0.64      0.59      0.62       267
   
 
-micro avg 0.59 0.59 0.59 1302
-macro avg 0.59 0.59 0.59 1302
-weighted avg 0.59 0.59 0.59 1302
+micro avg 0.59 0.59 0.59 1302  
+macro avg 0.59 0.59 0.59 1302  
+weighted avg 0.59 0.59 0.59 1302  
 samples avg 0.57 0.58 0.54 1302
 
 
@@ -53,9 +54,9 @@ Accuracy: 0.08518145161290322
        cOPN       0.76      1.00      0.86      1501
         
 
-micro avg 0.66 0.52 0.58 5071
-macro avg 0.61 0.43 0.43 5071
-weighted avg 0.63 0.52 0.50 5071
+micro avg 0.66 0.52 0.58 5071  
+macro avg 0.61 0.43 0.43 5071  
+weighted avg 0.63 0.52 0.50 5071  
 samples avg 0.68 0.51 0.55 5071
 
 
