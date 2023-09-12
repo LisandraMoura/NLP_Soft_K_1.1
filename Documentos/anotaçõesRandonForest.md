@@ -26,7 +26,7 @@ Vamos analisar as informações solicitadas com base no código fornecido:
 
 ## Possíveis Otimizações:
 
-- Sim, algumas possíveis otimizações incluem experimentar diferentes modelos de embeddings, além do "paraphrase-MiniLM-L6-v2", ajustar os hiperparâmetros do RandomForestClassifier, considerar modelos de aprendizado profundo, como redes neurais, se o objetivo for trabalhar diretamente com embeddings, e usar técnicas de seleção de recursos para identificar e manter apenas os recursos mais relevantes.
+- Algumas possíveis otimizações incluem experimentar diferentes modelos de embeddings, além do "paraphrase-MiniLM-L6-v2", ajustar os hiperparâmetros do RandomForestClassifier, considerar modelos de aprendizado profundo, como redes neurais, se o objetivo for trabalhar diretamente com embeddings, e usar técnicas de seleção de recursos para identificar e manter apenas os recursos mais relevantes.
 
 ## Métricas Recomendadas para Análise:
 
